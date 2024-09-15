@@ -1,0 +1,8 @@
+https://mesozoic-egg.github.io/tinygrad-notes/
+
+_recuse_lb: -> schedueles data into gpu memory, process is termed realization, 
+    * if already realized
+    * if graph: -> loglazy
+    * if is of iamge type and (? or is of proper dimensions (all arrays in stride must not equal 0)
+    * if is concerete (not self-returning):
+- schedule is built 
